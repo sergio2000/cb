@@ -1,0 +1,60 @@
+.contact-top {
+  margin: 0;
+  padding-top: 150px;
+  background-image: url(https://media1.giphy.com/media/Ph0oIVQeuvh0k/giphy.gif?cid=ecf05e47eef2724b1720cb2c748c2a8c834482770a303f6a&rid=giphy.gif);
+  background-size:100%;
+  height:700px;;
+  width:100%;
+}
+.error {
+  color: white;
+  font-family: 'Chivo', sans-serif;
+  text-align: center;
+  font-size: 200px;
+}
+ul {
+  position: relative;
+  float:left;
+  text-align: center;
+  background-color: white;
+  height: 70px;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+}
+li {
+  display: inline-block;
+  font-size: 24px;
+  width: 150px;
+  margin-top: 0;
+  padding: 20px;
+  font-family: 'Bebas Neue', cursive;
+}
+.home {
+  text-decoration: none;
+    color: #45046a;
+}
+.news {
+  text-decoration: none;
+    color: #45046a;
+}
+.contact {
+  text-decoration: none;
+    color: #45046a;
+}
+.about {
+  text-decoration: none;
+    color: #45046a;
+}
+.navigate {
+  overflow: hidden;
+  z-index: 300;
+}
+p {
+  font-family: 'Chivo', sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 24px;
+}
